@@ -1,2 +1,2 @@
 # Stockwaage
-Offenes Projekt zm Bau einer einfachen Bienenstockwaage.
+Offenes Projekt zum Bau einer einfachen Bienenstockwaage, des Imkervereins Dortmund-Hombruch.
